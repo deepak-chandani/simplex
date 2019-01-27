@@ -1,0 +1,13 @@
+hello:
+    path:      /hello/{name}
+    defaults:
+        name: World
+        new_param: NewParamValue
+        _controller: CodeCafe\\Controller\\HelloController::indexAction   
+
+is_leap_year:
+    path:      /is_leap_year/{year}
+    defaults:
+        year: 2015
+        new_param: NewParamValue
+        _controller: CodeCafe\\Controller\\LeapYearController::indexAction         
