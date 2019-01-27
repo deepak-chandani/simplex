@@ -21,3 +21,7 @@ You can pick the ones you need for the specific web application you are going to
 
   You can build a full-fledged , interactive web application by integrating together all the components.
   Using Symfony you **won't have to "reinvent the wheel" for each project**. 
+
+### Author
+Deepak Chandani
+[Deepak Chandani](https://www.linkedin.com/in/deepak-chandani-66676727/)
